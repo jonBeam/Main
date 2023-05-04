@@ -1,0 +1,10 @@
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Release\OfficeAutomationHelperTesting.exe
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Release\OfficeAutomationHelperTesting.pdb
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.csproj.AssemblyReference.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.csproj.ResolveComReference.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.FormOfficeAutomationHelperTesting.resources
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.Properties.Resources.resources
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.csproj.GenerateResource.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.csproj.CoreCompileInputs.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.exe
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Release\OfficeAutomationHelperTesting.pdb

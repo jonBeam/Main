@@ -1,0 +1,29 @@
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Debug\OfficeAutomationHelperTesting.exe
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Debug\OfficeAutomationHelperTesting.pdb
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.FormOfficeAutomationHelperTesting.resources
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.Properties.Resources.resources
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.exe
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.pdb
+C:\Users\jbeam\Documents\Visual Studio 2010\Projects\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.GenerateResource.Cache
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Debug\OfficeAutomationHelperTesting.exe
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Debug\OfficeAutomationHelperTesting.pdb
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.ResolveComReference.cache
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.FormOfficeAutomationHelperTesting.resources
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.Properties.Resources.resources
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.GenerateResource.cache
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.CoreCompileInputs.cache
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.exe
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.pdb
+C:\Users\jbeam\Documents\Code\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csprojResolveAssemblyReference.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Debug\OfficeAutomationHelperTesting.exe
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\bin\Debug\OfficeAutomationHelperTesting.pdb
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.AssemblyReference.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.ResolveComReference.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.FormOfficeAutomationHelperTesting.resources
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.Properties.Resources.resources
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.GenerateResource.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.CoreCompileInputs.cache
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.exe
+D:\Main\Documents\Code\CSharpCode\Classes\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.pdb
+C:\Code\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.AssemblyReference.cache
+C:\Code\OfficeAutomationHelper\OfficeAutomationHelper\obj\x86\Debug\OfficeAutomationHelperTesting.csproj.ResolveComReference.cache
